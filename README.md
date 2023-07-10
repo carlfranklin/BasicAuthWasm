@@ -301,7 +301,7 @@ update-database
 
 ![image-20230710113242623](images/image-20230710113242623.png)
 
-When it is done, you can refresh the list of databases to see the **BasicAuth** database.
+When it is done, you can refresh the list of databases to see the **BasicAuthWasm** database.
 
 ![image-20230710113353316](images/image-20230710113353316.png)
 
@@ -456,7 +456,7 @@ The Visual Studio template doesn't provide a means to manage roles and users. To
 
 It's called [IdentityManagerLibrary](https://github.com/carlfranklin/IdentityManagerLibrary). Download or clone the repo, and set **IdentityManagerBlazorServer** as the startup project.
 
-All you have to do is set the ConnectionString to the Identity Database in the *appsettings.json* file to the **BasicAuth** database, run it, and you'll be able to add roles and users.
+All you have to do is set the ConnectionString to the Identity Database in the *appsettings.json* file to the **BasicAuthWasm** database, run it, and you'll be able to add roles and users.
 
 After changing the connection string, run the app:
 
