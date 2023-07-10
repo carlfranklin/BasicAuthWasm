@@ -8,7 +8,7 @@ Notes for Basic Authentication/Authorization in Blazor
 Resources:
 
     ASP.NET Core Blazor authentication and authorization
-    https://learn.microsoft.com/en-us/aspnet/core/blazor/security/?view=aspnetcore-7.0
+    https://learn.microsoft.com/en-us/aspnet/core/blazor/security/webassembly/?view=aspnetcore-7.0
 
     IdentityManager
     https://github.com/carlfranklin/IdentityManagerLibrary
